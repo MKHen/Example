@@ -8,5 +8,5 @@ public:
 
     bool init();
 
-    int16_t foo1();
+    int16_t example();
 };
