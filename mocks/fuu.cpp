@@ -19,11 +19,11 @@ bool fuu::init() {
 }
 
 /**
- * @brief Docu of mock fuu foo1() function
+ * @brief Docu of mock fuu example() function
  * @li Comment to foo1.
  * @return Always returns -99 as mock
  */
-int16_t fuu::foo1() {
+int16_t fuu::example() {
     return -99;
 }
 
