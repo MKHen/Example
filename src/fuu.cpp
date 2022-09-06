@@ -13,10 +13,10 @@ bool fuu::init() {
 }
 
 /**
- * @brief Docu of fuu foo1() function
- * @li Comment to foo1.
+ * @brief Docu of fuu example() function
+ * @li Comment to example.
  * @return Always 7
  */
-int16_t fuu::foo1() {
+int16_t fuu::example() {
     return 7;
 }
